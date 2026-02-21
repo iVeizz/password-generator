@@ -7,7 +7,7 @@ A simple, fast, and secure desktop application for generating random passwords, 
 <img width="313" height="436" alt="image" src="https://github.com/user-attachments/assets/381ae7b3-7fc1-453c-a2e2-d910790ab0d4" />
 
 ## Features
-* **Customizable Length**: Choose password length starting from 4 characters.
+* **Customizable Length**: Choose password length starting from 8 characters to 16 characters.
 * **Character Sets**: Toggle uppercase letters, lowercase letters, numbers, and special symbols.
 * **One-Click Copy**: Copy the generated password directly to your Windows clipboard with a single click.
 * **Validation**: Prompts the user if no character sets are selected.
